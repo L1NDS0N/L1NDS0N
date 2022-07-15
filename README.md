@@ -20,7 +20,7 @@
 
 > #### Let's code together?
 > 
-> <a href="https://www.codewars.com/users/L1NDS0N" target="_blank"><img src="https://www.codewars.com/users/L1NDS0N/badges/large" target="_blank"></a> 
+> <a href="https://www.codewars.com/users/L1NDS0N" target="_blank"><img src="https://www.codewars.com/users/L1NDS0N/badges/small" target="_blank"></a> 
  
 
  
