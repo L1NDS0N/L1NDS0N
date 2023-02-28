@@ -2,7 +2,7 @@
 > 
 > - 🔭 I’m currently working as Fullstack Delphi Developer;
 > - 🌱 I’m currently learning NextJS;
-> - 👯 I’m looking to collaborate on ReactJS, React Native, NodeJS and others;
+> - 👯 I’m looking for collaborate on ReactJS, React Native, NodeJS and others projects;
 > - 📫 How to reach me:
 > 
 > <a href="https://discord.com/users/375871714548252675" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
