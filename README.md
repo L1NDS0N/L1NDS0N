@@ -9,15 +9,6 @@
   <a href = "mailto:lindson.franca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lindson-frança" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-
-<div align="center">
-  <a href="https://github.com/L1NDS0N">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=L1NDS0N&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1NDS0N&layout=compact&langs_count=7&theme=dark"/>
- </a>
-</div>
-
-
 > #### Let's code together?
 > 
 > <a href="https://www.codewars.com/users/L1NDS0N" target="_blank"><img src="https://www.codewars.com/users/L1NDS0N/badges/small" target="_blank"></a> 
