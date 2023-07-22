@@ -1,6 +1,6 @@
 > #### Hey there! I'm Lindson França 👋
 > 
-> - 🔭 I’m currently working as Fullstack Delphi Developer;
+> - 🔭 I’m currently working with PHP Laravel and Angular2+ stack;
 > - 🌱 I’m currently learning NextJS;
 > - 👯 I’m looking for collaborate on ReactJS, React Native, NodeJS and others projects;
 > - 📫 How to reach me:
